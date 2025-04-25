@@ -15,6 +15,9 @@ Hello, I'm Jay 👋 🌊
 - For more ancient history 📜, check out Open Powerlifting 🏋️‍♀️: https://www.openpowerlifting.org/u/janbalangue
 - If you would like to understand why Vanilla Ice 🍦 is the G.O.A.T. 🐐, read this: https://substack.com/@janbalangue/p-68960743
 
+My project at Nucamp Coding Bootcamp:
+- https://janbalangue.github.io/near-me-app/
+
 Resources:
 - Git book: https://git-scm.com/book/en/v2
 - Markdown cheat sheet: https://www.markdownguide.org/cheat-sheet/
