@@ -13,4 +13,4 @@ Hello, I'm Jay 👋 🌊
 - To me, it is easier to have a healthy mind when you are physically healthy. I exercise, eat nutritious foods, and drink plenty of water.
 - For ancient history, check out my SoundCloud 🎧: https://on.soundcloud.com/GMnWZAA6fk9NWGTq8
 - For more ancient history, check out Open Powerlifting: https://www.openpowerlifting.org/u/janbalangue
-- If you would like to understand why Vanilla Ice is the most important creator, thinker, and superhero in history, read this: https://substack.com/@janbalangue/p-68960743
+- If you would like to understand why Vanilla Ice is the most important creator, thinker, and superhero ever, read this: https://substack.com/@janbalangue/p-68960743
