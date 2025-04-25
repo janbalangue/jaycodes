@@ -4,7 +4,7 @@ Hello, I'm Jay 👋 🌊
 
 - I completed a role at ServiceNow as a Technical Support Engineer in CS-Integrations, and built Spring Boot REST APIs and test automation in previous roles.
 - My goal is to dive into tech at the macro and micro level, currently the front end:
-  - React rea
+  - React
   - Next.js
   - React Native
   - Tailwind CSS
