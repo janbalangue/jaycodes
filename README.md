@@ -19,3 +19,4 @@ Resources:
 - Git book: https://git-scm.com/book/en/v2
 - Markdown cheat sheet: https://www.markdownguide.org/cheat-sheet/
 - Next.js docs: https://nextjs.org/docs
+- Mac terminal shortcuts: https://support.apple.com/guide/terminal/keyboard-shortcuts-trmlshtcts/mac
