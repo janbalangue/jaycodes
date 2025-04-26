@@ -22,5 +22,6 @@ Resources:
 - ElysiaJS cheat sheet: https://elysiajs.com/integrations/cheat-sheet.html
 - Bun docs: https://bun.sh/docs
 - React Native docs: https://reactnative.dev/docs/getting-started
+- Sqlite docs: https://www.sqlite.org/docs.html
 - Pact docs: https://docs.pact.io/
 - Mac terminal shortcuts: https://support.apple.com/guide/terminal/keyboard-shortcuts-trmlshtcts/mac
