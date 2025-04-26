@@ -21,5 +21,8 @@ My project at Nucamp Coding Bootcamp:
 Resources:
 - Git book: https://git-scm.com/book/en/v2
 - Markdown cheat sheet: https://www.markdownguide.org/cheat-sheet/
-- Next.js docs: https://nextjs.org/docs
+- Drizzle docs: https://orm.drizzle.team/docs/overview
+- ElysiaJS cheat sheet: https://elysiajs.com/integrations/cheat-sheet.html
+- Bun docs: https://bun.sh/docs
+- React Native docs: https://reactnative.dev/docs/getting-started
 - Mac terminal shortcuts: https://support.apple.com/guide/terminal/keyboard-shortcuts-trmlshtcts/mac
