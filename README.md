@@ -24,4 +24,6 @@ Resources:
 - React Native docs: https://reactnative.dev/docs/getting-started
 - Sqlite docs: https://www.sqlite.org/docs.html
 - Pact docs: https://docs.pact.io/
+- Docker docs: https://docs.docker.com/
+- Kubernetes docs: https://kubernetes.io/docs/home/
 - Mac terminal shortcuts: https://support.apple.com/guide/terminal/keyboard-shortcuts-trmlshtcts/mac
