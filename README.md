@@ -3,9 +3,11 @@
 Hello, I'm Jay 👋 🌊
 
 - I completed a role at ServiceNow as a Technical Support Engineer in CS-Integrations, and built Spring Boot REST APIs and test automation in previous roles.
-- My goal is to dive into tech at the macro and micro level, currently the front end:
-  - React Native
+- My goal is to dive into tech at the macro and micro level, starting with the front end:
   - TypeScript
+  - Bun
+  - Drizzle
+  - ElysiaJS
 - I 💗 music 🎶, good stories 📖, and poems.
 - To me, it is easier to have a healthy mind 🧐 when you are physically healthy 🏃. I exercise 😴, eat nutritious foods 🍟, and drink plenty of water 🥤.
 - For ancient history 📜, check out my SoundCloud 🎧: https://on.soundcloud.com/GMnWZAA6fk9NWGTq8
