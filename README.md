@@ -3,7 +3,7 @@
 Hello, I'm Jay 👋
 
 - I completed a role at ServiceNow as a Technical Support Engineer in CS-Integrations, and built REST APIs for Spring Boot microservices and automated tests in previous roles.
-- My goal is to dive into tech at the macro and micro level, starting with the front end:
+- My goal is to dive further into tech at the macro and micro level, starting with the front end:
   - TypeScript
   - Bun
   - Drizzle
