@@ -13,7 +13,7 @@ Hello, I'm Jay 👋
 My project 👾 at Nucamp Coding Bootcamp:
 - https://janbalangue.github.io/near-me-app/
 
-Resources:
+Resources 📖:
 - Git book: https://git-scm.com/book/en/v2
 - Markdown cheat sheet: https://www.markdownguide.org/cheat-sheet/
 - Drizzle docs: https://orm.drizzle.team/docs/overview
