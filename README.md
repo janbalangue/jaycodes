@@ -8,7 +8,7 @@ Hello, I'm Jay 👋
   - Bun
   - Drizzle
   - ElysiaJS
-- I 💗 music 🎶, good stories 📖, and poems.
+- I 💗 music 🎶, good stories 📖, exercise 🏋️, and poems.
 
 My project 👾 at Nucamp Coding Bootcamp:
 - https://janbalangue.github.io/near-me-app/
