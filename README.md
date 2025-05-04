@@ -10,7 +10,7 @@ Hello, I'm Jay 👋
   - ElysiaJS
 - I 💗 music 🎶, good stories 📖, exercise 🏋️, and poems.
 
-My project 👾 at Nucamp Coding Bootcamp:
+My project 👾 at Nucamp Coding Bootcamp 📚:
 - https://janbalangue.github.io/near-me-app/
 
 Resources 📖:
