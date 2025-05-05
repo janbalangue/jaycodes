@@ -1,24 +1,18 @@
-# jaycodes
+Experienced Full Stack Engineer and ServiceNow Certified Administrator with 6+ years in agile software development, designing and deploying secure, scalable microservices and cloud-based solutions. Strong leadership in mentoring junior engineers, delivering high-reliability systems, and guiding the full product lifecycle—from idea to production. Adept in CI/CD, Java/Spring Boot, and AWS, with a proven track record of reducing costs, improving customer experience, and supporting enterprise-scale systems.
 
-Hello, I'm Jay. 👋
-- I am an enthusiastic learner, thinker, and communicator.
-- My most recent role was Technical Support Engineer in CS Integrations at ServiceNow San Diego. 
-- I wrote REST APIs for Spring Boot microservices and tests at all levels of the test automation pyramid in other roles.
-- I enjoy tech at the macro 🌎 and micro 🔬 level.
-- I am working on a collaborative project. Here is the tech stack:
-  - TypeScript
-  - Bun
-  - Drizzle
-  - Elysia
-  - Sqlite
-  - Discord
-  - Pact
-- I love music 🎶, stories 📖, exercise 🏋️, and unfamiliar ideas 💡.
+Languages & Frameworks: Java, Spring Boot, JavaScript, TypeScript, React, Cucumber, Groovy
+DevOps & Cloud: AWS, Jenkins, GitHub, Docker, SonarQube
 
-My project at Nucamp Coding Bootcamp 📚:
-- https://janbalangue.github.io/near-me-app/
+Databases: MySQL, SQLite, NoSQL (basic)
+
+Monitoring & Messaging: Splunk, basic Kafka/MQ knowledge
+
+ServiceNow Expertise: REST APIs, CMDB, Integration Hub, Business Rules, Script Includes, Virtual Agent, Discovery, Service Graph, RPA
+
+Soft Skills: Mentoring, Collaboration, Communication, Problem-solving
 
 Resources:
+- TypeScript docs: https://www.typescriptlang.org/docs/
 - Git book: https://git-scm.com/book/en/v2
 - Markdown cheat sheet: https://www.markdownguide.org/cheat-sheet/
 - Drizzle docs: https://orm.drizzle.team/docs/overview
