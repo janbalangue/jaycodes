@@ -1,6 +1,7 @@
 Experienced Full Stack Engineer and ServiceNow Certified Administrator with 6+ years in agile software development, designing and deploying secure, scalable microservices and cloud-based solutions. Strong leadership in mentoring junior engineers, delivering high-reliability systems, and guiding the full product lifecycle—from idea to production. Adept in CI/CD, Java/Spring Boot, and AWS, with a proven track record of reducing costs, improving customer experience, and supporting enterprise-scale systems.
 
 Languages & Frameworks: Java, Spring Boot, JavaScript, TypeScript, React, Cucumber, Groovy
+
 DevOps & Cloud: AWS, Jenkins, GitHub, Docker, SonarQube
 
 Databases: MySQL, SQLite, NoSQL (basic)
