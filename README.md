@@ -15,14 +15,12 @@ Soft Skills: Mentoring, Collaboration, Communication, Problem-solving
 Resources:
 - TypeScript docs: https://www.typescriptlang.org/docs/
 - Git book: https://git-scm.com/book/en/v2
-- Markdown cheat sheet: https://www.markdownguide.org/cheat-sheet/
 - Drizzle docs: https://orm.drizzle.team/docs/overview
 - ElysiaJS cheat sheet: https://elysiajs.com/integrations/cheat-sheet.html
 - Bun docs: https://bun.sh/docs
 - React Native docs: https://reactnative.dev/docs/getting-started
 - Postgres docs: https://www.postgresql.org/docs/
 - Sqlite docs: https://www.sqlite.org/docs.html
-- Pact docs: https://docs.pact.io/
 - Docker docs: https://docs.docker.com/
 - Kubernetes docs: https://kubernetes.io/docs/home/
 - Mac terminal shortcuts: https://support.apple.com/guide/terminal/keyboard-shortcuts-trmlshtcts/mac
