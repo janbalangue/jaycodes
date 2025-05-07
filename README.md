@@ -12,6 +12,14 @@ ServiceNow Expertise: REST APIs, CMDB, Integration Hub, Business Rules, Script I
 
 Soft Skills: Mentoring, Collaboration, Communication, Problem-solving
 
+Viridia (private) tech stack:
+- TypeScript
+- Bun
+- Drizzle
+- Elysia
+- Sqlite
+- Discord
+
 Resources:
 - TypeScript docs: https://www.typescriptlang.org/docs/
 - Git book: https://git-scm.com/book/en/v2
