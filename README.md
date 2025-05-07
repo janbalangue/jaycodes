@@ -24,7 +24,7 @@ Resources:
 - TypeScript docs: https://www.typescriptlang.org/docs/
 - Git book: https://git-scm.com/book/en/v2
 - Drizzle docs: https://orm.drizzle.team/docs/overview
-- ElysiaJS cheat sheet: https://elysiajs.com/integrations/cheat-sheet.html
+- Elysia cheat sheet: https://elysiajs.com/integrations/cheat-sheet.html
 - Bun docs: https://bun.sh/docs
 - React Native docs: https://reactnative.dev/docs/getting-started
 - Postgres docs: https://www.postgresql.org/docs/
