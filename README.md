@@ -8,7 +8,7 @@ Databases: MySQL, SQLite, NoSQL (basic)
 
 Monitoring & Messaging: Splunk, basic Kafka/MQ knowledge
 
-ServiceNow Expertise: REST APIs, CMDB, Integration Hub, Business Rules, Script Includes, Virtual Agent, Discovery, Service Graph, RPA
+ServiceNow Expertise: REST APIs, CMDB, Integration Hub, Business Rules, Script Includes, Virtual Agent, Discovery, Service Graph Connector, RPA
 
 Soft Skills: Mentoring, Collaboration, Communication, Problem-solving
 
