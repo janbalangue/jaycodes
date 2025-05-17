@@ -26,9 +26,9 @@ Resources:
 - Drizzle docs: https://orm.drizzle.team/docs/overview
 - Elysia cheat sheet: https://elysiajs.com/integrations/cheat-sheet.html
 - Bun docs: https://bun.sh/docs
+- Next.js docs: https://nextjs.org/docs
 - React Native docs: https://reactnative.dev/docs/getting-started
 - Postgres docs: https://www.postgresql.org/docs/
-- Sqlite docs: https://www.sqlite.org/docs.html
 - Docker docs: https://docs.docker.com/
 - Kubernetes docs: https://kubernetes.io/docs/home/
 - Mac terminal shortcuts: https://support.apple.com/guide/terminal/keyboard-shortcuts-trmlshtcts/mac
