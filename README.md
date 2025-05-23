@@ -1,14 +1,14 @@
-Experienced Full Stack Engineer and ServiceNow Certified Administrator with 6+ years in agile software development, designing and deploying secure, scalable microservices and cloud-based solutions. Strong leadership in mentoring junior engineers, delivering high-reliability systems, and guiding the full product lifecycle—from idea to production. Adept in CI/CD, Java/Spring Boot, ServiceNow, and AWS, with a proven track record of reducing costs, improving customer experience, and supporting enterprise-scale systems.
+Fullstack Software Engineer who designs and deploys secure, scalable applications. Strong leadership in mentoring junior engineers. Adept in TypeScript, Java/Spring Boot, and SQL, with a proven track record of reducing costs, improving customer experience, and supporting enterprise-scale systems.
 
-Languages & Frameworks: Java, Spring Boot, JavaScript, TypeScript, React, Cucumber, Groovy
+Languages & Frameworks: Java, Spring Boot, JavaScript, TypeScript, React, Next.js, Cucumber, Groovy
 
-DevOps & Cloud: AWS, Jenkins, GitHub, Docker, SonarQube
+DevOps & Cloud: CI/CD, AWS, GitHub, containers, VMs
 
-Databases: MySQL, SQLite, NoSQL (basic)
+Databases: MySQL, SQLite, PostgreSQL
 
-Monitoring & Messaging: Splunk, basic Kafka/MQ knowledge
+Monitoring & Messaging: Splunk, ETL
 
-ServiceNow Expertise: REST APIs, CMDB, Integration Hub, Business Rules, Script Includes, Virtual Agent, Discovery, Service Graph Connector, RPA
+ServiceNow Expertise: email, authentication, REST APIs, CMDB, Integration Hub, Business Rules, Script Includes, Virtual Agent, Discovery, Service Graph Connector, RPA
 
 Soft Skills: Mentoring, Collaboration, Communication, Problem-solving
 
@@ -27,6 +27,7 @@ Resources:
 - Elysia cheat sheet: https://elysiajs.com/integrations/cheat-sheet.html
 - Bun docs: https://bun.sh/docs
 - Next.js docs: https://nextjs.org/docs
+- Vercel docs: https://vercel.com/docs
 - React Native docs: https://reactnative.dev/docs/getting-started
 - Postgres docs: https://www.postgresql.org/docs/
 - Docker docs: https://docs.docker.com/
