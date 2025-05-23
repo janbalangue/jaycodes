@@ -1,4 +1,4 @@
-Fullstack Software Engineer who designs and deploys secure, scalable applications. Strong leadership in mentoring junior engineers. Adept in TypeScript, Java/Spring Boot, and SQL, with a proven track record of reducing costs, improving customer experience, and supporting enterprise-scale systems.
+Fullstack Software Engineer who designs and deploys secure, scalable applications. Strong leadership in mentoring junior engineers and experienced in testing at the unit, integration, and E2E levels. Adept in TypeScript, Java/Spring Boot, and SQL, with a proven track record of reducing costs, improving customer experience, and supporting enterprise-scale systems.
 
 Languages & Frameworks: Java, Spring Boot, JavaScript, TypeScript, React, Next.js, Cucumber, Groovy
 
