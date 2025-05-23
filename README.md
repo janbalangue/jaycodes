@@ -10,7 +10,7 @@ Monitoring & Messaging: Splunk, ETL
 
 ServiceNow Expertise: email, authentication, REST APIs, CMDB, Integration Hub, Business Rules, Script Includes, Virtual Agent, Discovery, Service Graph Connector, RPA
 
-Soft Skills: Mentoring, Collaboration, Communication, Problem-solving
+Soft Skills: Collaboration, Communication, Problem-solving
 
 Viridia (private) tech stack:
 - TypeScript
