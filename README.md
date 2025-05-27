@@ -12,7 +12,7 @@ DevOps & Cloud: CI/CD, GitHub, containers, VMs
 
 Databases: MySQL, SQLite, PostgreSQL
 
-Monitoring & Messaging: Splunk, ETL
+Monitoring & Messaging: Splunk, ETL, ELT
 
 ServiceNow Expertise: email, authentication, RESTful Web Services, CMDB, IRE, Integration Hub, scripts, Virtual Agent/Now Assist, Discovery, Service Graph Connector, RPA
 
