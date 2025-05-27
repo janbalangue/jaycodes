@@ -18,7 +18,7 @@ ServiceNow Expertise: email, authentication, RESTful Web Services, CMDB, IRE, In
 
 Soft Skills: Collaboration, Communication, Problem-solving
 
-Interests: music, food, health, stories
+Interests: music, health, stories
 
 Resources:
 - TypeScript docs: https://www.typescriptlang.org/docs/
