@@ -2,9 +2,9 @@ Full-stack Software Engineer who offers quick, quality-focused iteration at scal
 
 A leader in mentoring junior engineers and an experienced tester at the unit, integration, and E2E levels. Adept in TypeScript, Java/Spring Boot, and SQL, with a track record of reducing costs, improving customer experience, and supporting enterprise-scale systems.
 
-Email: <jan.a.balangue@gmail.com>
-LinkedIn: <https://www.linkedin.com/in/jan-balangue/>
-Wellfound: <https://wellfound.com/u/jan-balangue-1>
+* Email: <jan.a.balangue@gmail.com>
+* LinkedIn: <https://www.linkedin.com/in/jan-balangue/>
+* Wellfound: <https://wellfound.com/u/jan-balangue-1>
 
 Languages & Frameworks: Java, Spring Boot, JavaScript, TypeScript, React, Next.js, Cucumber
 
