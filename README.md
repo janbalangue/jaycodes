@@ -1,24 +1,22 @@
-Fullstack Software Engineer who designs and deploys secure, scalable applications. Strong leadership in mentoring junior engineers and experienced in testing at the unit, integration, and E2E levels. Adept in TypeScript, Java/Spring Boot, and SQL, with a proven track record of reducing costs, improving customer experience, and supporting enterprise-scale systems.
+Full-stack Software Engineer who offers quick, quality-focused iteration at scale to design and develop secure applications. Passionate about good design principles to facilitate long-term planning and proactively reduce rework. 
 
-Languages & Frameworks: Java, Spring Boot, JavaScript, TypeScript, React, Next.js, Cucumber, Groovy
+A leader in mentoring junior engineers and an experienced tester at the unit, integration, and E2E levels. Adept in TypeScript, Java/Spring Boot, and SQL, with a track record of reducing costs, improving customer experience, and supporting enterprise-scale systems.
 
-DevOps & Cloud: CI/CD, AWS, GitHub, containers, VMs
+You can email me here: <jan.a.balangue@gmail.com>
+
+Languages & Frameworks: Java, Spring Boot, JavaScript, TypeScript, React, Next.js, Cucumber
+
+DevOps & Cloud: CI/CD, GitHub, containers, VMs
 
 Databases: MySQL, SQLite, PostgreSQL
 
-Monitoring & Messaging: Splunk, ETL
+Monitoring & Messaging: Splunk, ETL, basic MQ knowledge
 
-ServiceNow Expertise: email, authentication, REST APIs, CMDB, Integration Hub, Business Rules, Script Includes, Virtual Agent, Discovery, Service Graph Connector, RPA
+ServiceNow Expertise: email, authentication, REST APIs, CMDB, Integration Hub, Business Rules, Script Includes, Virtual Agent/Now Assist, Discovery, Service Graph Connector, RPA
 
 Soft Skills: Collaboration, Communication, Problem-solving
 
-Viridia (private) tech stack:
-- TypeScript
-- Bun
-- Drizzle
-- Elysia
-- Sqlite
-- Discord
+Interests: music, food, psychology, math, socializing
 
 Resources:
 - TypeScript docs: https://www.typescriptlang.org/docs/
