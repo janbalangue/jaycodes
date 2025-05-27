@@ -12,7 +12,7 @@ Databases: MySQL, SQLite, PostgreSQL
 
 Monitoring & Messaging: Splunk, ETL, basic MQ knowledge
 
-ServiceNow Expertise: email, authentication, REST APIs, CMDB, Integration Hub, Business Rules, Script Includes, Virtual Agent/Now Assist, Discovery, Service Graph Connector, RPA
+ServiceNow Expertise: email, authentication, RESTful Web Services, CMDB, IRE, Integration Hub, scripts, Virtual Agent/Now Assist, Discovery, Service Graph Connector, RPA
 
 Soft Skills: Collaboration, Communication, Problem-solving
 
