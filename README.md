@@ -1,4 +1,4 @@
-hi Full-stack Software Engineer who offers quick, quality-focused iteration at scale to design and develop secure applications. Passionate about good design principles to facilitate long-term planning and proactively reduce rework. 
+Full-stack Software Engineer who offers quick, quality-focused iteration at scale to design and develop secure applications. Passionate about good design principles to facilitate long-term planning and proactively reduce rework. 
 
 A leader in mentoring junior engineers and an experienced tester at the unit, integration, and E2E levels. Adept in TypeScript, Java/Spring Boot, and SQL, with a track record of reducing costs, improving customer experience, and supporting enterprise-scale systems.
 
