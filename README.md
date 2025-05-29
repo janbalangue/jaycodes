@@ -30,6 +30,7 @@ Resources:
 - Next.js docs: https://nextjs.org/docs
 - Vercel docs: https://vercel.com/docs
 - React Native docs: https://reactnative.dev/docs/getting-started
+- Expo docs: https://docs.expo.dev/get-started/introduction/
 - Postgres docs: https://www.postgresql.org/docs/
 - Docker docs: https://docs.docker.com/
 - Kubernetes docs: https://kubernetes.io/docs/home/
