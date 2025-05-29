@@ -1,4 +1,4 @@
-Full-stack Software Engineer who offers quick, quality-focused iteration at scale to design and develop secure applications. Passionate about good design principles to facilitate long-term planning and proactively reduce rework. 
+hi Full-stack Software Engineer who offers quick, quality-focused iteration at scale to design and develop secure applications. Passionate about good design principles to facilitate long-term planning and proactively reduce rework. 
 
 A leader in mentoring junior engineers and an experienced tester at the unit, integration, and E2E levels. Adept in TypeScript, Java/Spring Boot, and SQL, with a track record of reducing costs, improving customer experience, and supporting enterprise-scale systems.
 
@@ -30,6 +30,7 @@ Resources:
 - Next.js docs: https://nextjs.org/docs
 - Vercel docs: https://vercel.com/docs
 - React Native docs: https://reactnative.dev/docs/getting-started
+- Nativewind docs: https://www.nativewind.dev/
 - Expo docs: https://docs.expo.dev/get-started/introduction/
 - Postgres docs: https://www.postgresql.org/docs/
 - Docker docs: https://docs.docker.com/
