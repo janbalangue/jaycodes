@@ -29,7 +29,7 @@ Resources:
 - Bun docs: https://bun.sh/docs
 - Next.js docs: https://nextjs.org/docs
 - Vercel docs: https://vercel.com/docs
-- React Native docs: https://reactnative.dev/docs/getting-started
+- Tailwind docs: https://v2.tailwindcss.com/docs
 - Nativewind docs: https://www.nativewind.dev/
 - Expo docs: https://docs.expo.dev/get-started/introduction/
 - Postgres docs: https://www.postgresql.org/docs/
