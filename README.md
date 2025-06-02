@@ -36,3 +36,5 @@ Resources:
 - Docker docs: https://docs.docker.com/
 - Kubernetes docs: https://kubernetes.io/docs/home/
 - Mac terminal shortcuts: https://support.apple.com/guide/terminal/keyboard-shortcuts-trmlshtcts/mac
+- libuv docs: https://docs.libuv.org/en/v1.x/
+- Pulsar docs: https://pulsar.apache.org/docs/next/
