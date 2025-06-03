@@ -21,6 +21,7 @@ Soft Skills: Collaboration, Communication, Problem-solving
 Interests: music, food, stories
 
 Resources:
+- React docs: https://react.dev/
 - React Native docs: https://reactnative.dev/docs/getting-started
 - TypeScript docs: https://www.typescriptlang.org/docs/
 - Git book: https://git-scm.com/book/en/v2
