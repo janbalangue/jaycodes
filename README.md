@@ -23,6 +23,7 @@ Interests: music, food, stories
 Resources:
 - React docs: https://react.dev/
 - React Native docs: https://reactnative.dev/docs/getting-started
+- Gluestack docs: https://gluestack.io/ui/docs/home/overview/quick-start
 - TypeScript docs: https://www.typescriptlang.org/docs/
 - Git book: https://git-scm.com/book/en/v2
 - Drizzle docs: https://orm.drizzle.team/docs/overview
