@@ -21,6 +21,7 @@ Soft Skills: Collaboration, Communication, Problem-solving
 Interests: music, food, stories
 
 Resources:
+- P5.js docs: https://p5js.org/reference/
 - React docs: https://react.dev/
 - React Native docs: https://reactnative.dev/docs/getting-started
 - Gluestack docs: https://gluestack.io/ui/docs/home/overview/quick-start
