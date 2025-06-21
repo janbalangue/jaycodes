@@ -23,6 +23,7 @@ Interests: music, food, stories
 Resources:
 - Storybook docs: https://storybook.js.org/docs
 - Sanity CMS docs: https://www.sanity.io/docs?ref=navbar
+- PostCSS docs: https://postcss.org/docs/
 - Sass docs: https://sass-lang.com/documentation/
 - Playwright docs: https://playwright.dev/docs/intro
 - P5.js docs: https://p5js.org/reference/
