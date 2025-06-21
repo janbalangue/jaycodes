@@ -21,6 +21,8 @@ Soft Skills: Collaboration, Communication, Problem-solving
 Interests: music, food, stories
 
 Resources:
+- Storybook docs: https://storybook.js.org/docs
+- Sanity CMS docs: https://www.sanity.io/docs?ref=navbar
 - Sass docs: https://sass-lang.com/documentation/
 - P5.js docs: https://p5js.org/reference/
 - React docs: https://react.dev/
