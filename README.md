@@ -24,6 +24,7 @@ Resources:
 - Storybook docs: https://storybook.js.org/docs
 - Sanity CMS docs: https://www.sanity.io/docs?ref=navbar
 - Sass docs: https://sass-lang.com/documentation/
+- Playwright docs: https://playwright.dev/docs/intro
 - P5.js docs: https://p5js.org/reference/
 - React docs: https://react.dev/
 - React Native docs: https://reactnative.dev/docs/getting-started
