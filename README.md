@@ -21,6 +21,7 @@ Soft Skills: Collaboration, Communication, Problem-solving
 Interests: music, food, stories
 
 Resources:
+- Strapi docs: https://docs.strapi.io/
 - Storybook docs: https://storybook.js.org/docs
 - Sanity CMS docs: https://www.sanity.io/docs?ref=navbar
 - PostCSS docs: https://postcss.org/docs/
