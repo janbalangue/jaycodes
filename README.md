@@ -21,6 +21,7 @@ Soft Skills: Collaboration, Communication, Problem-solving
 Interests: music, food, stories
 
 Resources:
+- GSAP docs: https://gsap.com/resources/
 - Strapi docs: https://docs.strapi.io/
 - Storybook docs: https://storybook.js.org/docs
 - Sanity CMS docs: https://www.sanity.io/docs?ref=navbar
