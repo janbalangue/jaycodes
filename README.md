@@ -1,6 +1,6 @@
 Full-stack Software Engineer who offers quick, quality-focused iteration at scale to design and develop secure applications. Cordial, receptive, and makes sound, timely decisions under pressure. Passionate about good design principles to facilitate long-term planning and proactively reduce rework. 
 
-A leader in mentoring junior engineers and an experienced tester at the unit, integration, and E2E levels. Adept in TypeScript, Java/Spring Boot, and SQL, with a track record of reducing costs, improving customer experience, and supporting enterprise-scale systems.
+A mentor of junior engineers and an experienced tester at the unit, integration, and E2E levels. Adept in TypeScript, Java/Spring Boot, and SQL, with a track record of reducing costs, improving customer experience, and supporting enterprise-scale systems.
 
 * Email: <jan.a.balangue@gmail.com>
 * LinkedIn: <https://www.linkedin.com/in/jan-balangue/>
