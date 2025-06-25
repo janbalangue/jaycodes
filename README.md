@@ -21,6 +21,7 @@ Soft Skills: Collaboration, Communication, Problem-solving
 Interests: music, food, stories
 
 Resources:
+- Figma docs: https://www.figma.com/resource-library/
 - TigerData docs: https://docs.tigerdata.com/
 - Contentful docs: https://www.contentful.com/developers/docs/
 - GSAP docs: https://gsap.com/resources/
