@@ -21,6 +21,7 @@ Soft Skills: Collaboration, Communication, Problem-solving
 Interests: music, food, stories
 
 Resources:
+- GitLab docs: https://docs.gitlab.com/ci/
 - Figma docs: https://www.figma.com/resource-library/
 - TigerData docs: https://docs.tigerdata.com/
 - Contentful docs: https://www.contentful.com/developers/docs/
