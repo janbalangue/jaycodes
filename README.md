@@ -21,6 +21,7 @@ Soft Skills: Collaboration, Communication, Problem-solving
 Interests: music, food, stories
 
 Resources:
+- Upstash docs: https://upstash.com/docs/introduction
 - Supabase docs: https://supabase.com/docs
 - GitLab docs: https://docs.gitlab.com/ci/
 - Figma docs: https://www.figma.com/resource-library/
