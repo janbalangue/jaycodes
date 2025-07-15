@@ -21,6 +21,7 @@ Soft Skills: Collaboration, Communication, Problem-solving
 Interests: music, food, stories
 
 Resources:
+- Redis docs: https://redis.io/docs/latest/
 - Upstash docs: https://upstash.com/docs/introduction
 - Supabase docs: https://supabase.com/docs
 - GitLab docs: https://docs.gitlab.com/ci/
