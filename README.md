@@ -4,6 +4,7 @@ A mentor of junior engineers and an experienced tester at the unit, integration,
 
 * Email: <jan.a.balangue@gmail.com>
 * LinkedIn: <https://www.linkedin.com/in/jan-balangue/>
+* HackerRank: <https://www.hackerrank.com/profile/jan_a_balangue>
 * Wellfound: <https://wellfound.com/u/jan-balangue-1>
 
 Languages & Frameworks: Java, Spring Boot, JavaScript, TypeScript, React, Next.js, Cucumber
