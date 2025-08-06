@@ -21,6 +21,7 @@ Soft Skills: Collaboration, Communication, Problem-solving
 Interests: music, food, stories
 
 Resources:
+- Lucide icons: https://lucide.dev/
 - BullMQ docs: https://docs.bullmq.io/
 - Redis docs: https://redis.io/docs/latest/
 - Upstash docs: https://upstash.com/docs/introduction
