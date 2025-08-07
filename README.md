@@ -22,6 +22,7 @@ Soft Skills: Collaboration, Communication, Problem-solving
 Interests: music, food, stories
 
 Resources:
+- Zapier AI automation: https://zapier.com/
 - Lucide icons: https://lucide.dev/
 - BullMQ docs: https://docs.bullmq.io/
 - Redis docs: https://redis.io/docs/latest/
