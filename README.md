@@ -22,6 +22,7 @@ Soft Skills: Collaboration, Communication, Problem-solving
 Interests: music, food, stories
 
 Resources:
+- Windsurf IDE: https://windsurf.com/
 - Zapier AI orchestration: https://zapier.com/
 - Lucide icons: https://lucide.dev/
 - BullMQ docs: https://docs.bullmq.io/
