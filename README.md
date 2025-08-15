@@ -22,6 +22,8 @@ Soft Skills: Collaboration, Communication, Problem-solving
 Interests: music, food, stories
 
 Resources:
+- GDScript: https://docs.godotengine.org/en/4.4/tutorials/scripting/gdscript/gdscript_basics.html
+- Godot: https://docs.godotengine.org/en/stable/
 - Windsurf IDE: https://windsurf.com/
 - Zapier AI orchestration: https://zapier.com/
 - Lucide icons: https://lucide.dev/
