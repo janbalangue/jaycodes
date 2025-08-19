@@ -22,45 +22,46 @@ Soft Skills: Collaboration, Communication, Problem-solving
 Interests: music, food, stories
 
 Resources:
+- C#: https://learn.microsoft.com/en-us/dotnet/csharp/
 - GDScript: https://docs.godotengine.org/en/4.4/tutorials/scripting/gdscript/gdscript_basics.html
 - Godot: https://docs.godotengine.org/en/stable/
 - Windsurf IDE: https://windsurf.com/
 - Zapier AI orchestration: https://zapier.com/
 - Lucide icons: https://lucide.dev/
-- BullMQ docs: https://docs.bullmq.io/
-- Redis docs: https://redis.io/docs/latest/
-- Upstash docs: https://upstash.com/docs/introduction
-- Supabase docs: https://supabase.com/docs
-- GitLab docs: https://docs.gitlab.com/ci/
-- Figma docs: https://www.figma.com/resource-library/
-- TigerData docs: https://docs.tigerdata.com/
-- Contentful docs: https://www.contentful.com/developers/docs/
-- GSAP docs: https://gsap.com/resources/
-- Strapi docs: https://docs.strapi.io/
-- Storybook docs: https://storybook.js.org/docs
-- Sanity CMS docs: https://www.sanity.io/docs?ref=navbar
-- PostCSS docs: https://postcss.org/docs/
-- Sass docs: https://sass-lang.com/documentation/
-- Playwright docs: https://playwright.dev/docs/intro
-- P5.js docs: https://p5js.org/reference/
-- React docs: https://react.dev/
-- React Native docs: https://reactnative.dev/docs/getting-started
-- Gluestack docs: https://gluestack.io/ui/docs/home/overview/quick-start
-- TypeScript docs: https://www.typescriptlang.org/docs/
-- Git book: https://git-scm.com/book/en/v2
-- Drizzle docs: https://orm.drizzle.team/docs/overview
-- Elysia cheat sheet: https://elysiajs.com/integrations/cheat-sheet.html
-- Bun docs: https://bun.sh/docs
-- Next.js docs: https://nextjs.org/docs
-- Vercel docs: https://vercel.com/docs
-- Tailwind docs: https://v2.tailwindcss.com/docs
-- Nativewind docs: https://www.nativewind.dev/
-- Expo docs: https://docs.expo.dev/get-started/introduction/
-- Postgres docs: https://www.postgresql.org/docs/
-- Docker docs: https://docs.docker.com/
-- Kubernetes docs: https://kubernetes.io/docs/home/
-- Prometheus docs: https://prometheus.io/docs/introduction/overview/
+- BullMQ: https://docs.bullmq.io/
+- Redis: https://redis.io/docs/latest/
+- Upstash: https://upstash.com/docs/introduction
+- Supabase: https://supabase.com/docs
+- GitLab: https://docs.gitlab.com/ci/
+- Figma: https://www.figma.com/resource-library/
+- TigerData: https://docs.tigerdata.com/
+- Contentful: https://www.contentful.com/developers/docs/
+- GSAP: https://gsap.com/resources/
+- Strapi: https://docs.strapi.io/
+- Storybook: https://storybook.js.org/docs
+- Sanity CMS: https://www.sanity.io/docs?ref=navbar
+- PostCSS: https://postcss.org/docs/
+- Sass: https://sass-lang.com/documentation/
+- Playwright: https://playwright.dev/docs/intro
+- P5.js: https://p5js.org/reference/
+- React: https://react.dev/
+- React Native: https://reactnative.dev/docs/getting-started
+- Gluestack: https://gluestack.io/ui/docs/home/overview/quick-start
+- TypeScript: https://www.typescriptlang.org/docs/
+- Git: https://git-scm.com/book/en/v2
+- Drizzle: https://orm.drizzle.team/docs/overview
+- Elysia: https://elysiajs.com/integrations/cheat-sheet.html
+- Bun: https://bun.sh/docs
+- Next.js: https://nextjs.org/docs
+- Vercel: https://vercel.com/docs
+- Tailwind: https://v2.tailwindcss.com/docs
+- Nativewind: https://www.nativewind.dev/
+- Expo: https://docs.expo.dev/get-started/introduction/
+- Postgres: https://www.postgresql.org/docs/
+- Docker: https://docs.docker.com/
+- Kubernetes: https://kubernetes.io/docs/home/
+- Prometheus: https://prometheus.io/docs/introduction/overview/
 - Mac terminal shortcuts: https://support.apple.com/guide/terminal/keyboard-shortcuts-trmlshtcts/mac
-- libuv docs: https://docs.libuv.org/en/v1.x/
-- Pulsar docs: https://pulsar.apache.org/docs/next/
+- libuv: https://docs.libuv.org/en/v1.x/
+- Pulsar: https://pulsar.apache.org/docs/next/
 - Kafka: https://kafka.apache.org/
