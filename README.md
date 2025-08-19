@@ -22,6 +22,7 @@ Soft Skills: Collaboration, Communication, Problem-solving
 Interests: music, food, stories
 
 Resources:
+- W4: https://www.w4games.com/services
 - C#: https://learn.microsoft.com/en-us/dotnet/csharp/
 - GDScript: https://docs.godotengine.org/en/4.4/tutorials/scripting/gdscript/gdscript_basics.html
 - Godot: https://docs.godotengine.org/en/stable/
