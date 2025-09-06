@@ -22,6 +22,7 @@ Soft Skills: Collaboration, Communication, Problem-solving
 Interests: music, food, stories
 
 Resources:
+- Langchain: https://python.langchain.com/docs/introduction/
 - Shadcn: https://ui.shadcn.com/docs
 - W4: https://www.w4games.com/services
 - C#: https://learn.microsoft.com/en-us/dotnet/csharp/
