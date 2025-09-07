@@ -22,6 +22,7 @@ Soft Skills: Collaboration, Communication, Problem-solving
 Interests: music, food, stories
 
 Resources:
+- Flowise: https://docs.flowiseai.com/
 - Langchain: https://python.langchain.com/docs/introduction/
 - Shadcn: https://ui.shadcn.com/docs
 - W4: https://www.w4games.com/services
