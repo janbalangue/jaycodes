@@ -22,6 +22,7 @@ Soft Skills: Collaboration, Communication, Problem-solving
 Interests: music, food, stories
 
 Resources:
+- Prompt Engineering Guide: https://www.promptingguide.ai/
 - Flowise: https://docs.flowiseai.com/
 - Langchain: https://python.langchain.com/docs/introduction/
 - Shadcn: https://ui.shadcn.com/docs
