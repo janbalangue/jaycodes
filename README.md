@@ -22,6 +22,7 @@ Soft Skills: Communication, Collaboration, Problem-solving
 Interests: music, food, writing, health
 
 Resources:
+- Neo4j: https://neo4j.com/docs/
 - HTMX: https://htmx.org/
 - Prompt Engineering Guide: https://www.promptingguide.ai/
 - Flowise: https://docs.flowiseai.com/
