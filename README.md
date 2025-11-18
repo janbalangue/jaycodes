@@ -1,4 +1,4 @@
-Software Engineer with a track record of converting learning into business value quickly. Resilient, receptive, a cross-team collaborator, and a timely decision-maker, I have rescued deals from breaking down with million-dollar accounts. I have a passion for good design principles to facilitate planning and proactively reduce rework. 
+Software Engineer with a track record of converting learning into business value quickly. Resilient, receptive, a cross-team collaborator, and a timely decision-maker, I have rescued deals from breaking down with million-dollar accounts. I also have a passion for good design principles to facilitate planning and proactively reduce rework. 
 
 A mentor of junior engineers and an experienced tester at the unit, integration, and E2E levels, I speak JavaScript, Java/Spring Boot, Python, and SQL. I get system design as it relates to microservices architecture.
 
