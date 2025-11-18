@@ -1,13 +1,13 @@
-Full Stack Software Engineer who offers quick, quality-focused iteration at scale to design and develop secure applications. Cordial, receptive, and a timely decision-maker. Passionate about good design principles to facilitate planning and proactively reduce rework. 
+Software Engineer with a track record of converting learning into business value quickly. Resilient, receptive, a cross-team collaborator, and a timely decision-maker, I have rescued deals from breaking down with million-dollar accounts. I have a passion for good design principles to facilitate planning and proactively reduce rework. 
 
-A mentor of junior engineers and an experienced tester at the unit, integration, and E2E levels. Adept in TypeScript, Java/Spring Boot, and SQL, with a track record of reducing costs, improving customer experience, and supporting enterprise-scale systems.
+A mentor of junior engineers and an experienced tester at the unit, integration, and E2E levels, I speak JavaScript, Java/Spring Boot, Python, and SQL. I get system design as it relates to microservices architecture.
 
 * Email: <jan.a.balangue@gmail.com>
 * LinkedIn: <https://www.linkedin.com/in/jan-balangue/>
 * HackerRank: <https://www.hackerrank.com/profile/jan_a_balangue>
 * Wellfound: <https://wellfound.com/u/jan-balangue-1>
 
-Languages & Frameworks: Java, Spring Boot, JavaScript, TypeScript, React, Next.js, Cucumber
+Languages & Frameworks: Java, Spring Boot, Python, Numpy, JavaScript, TypeScript, React, Next.js, Cucumber
 
 DevOps & Cloud: CI/CD, GitHub, containers, VMs
 
@@ -15,9 +15,9 @@ Databases: MySQL, SQLite, PostgreSQL
 
 Monitoring & Messaging: Splunk, ETL, ELT
 
-ServiceNow Expertise: email, authentication, RESTful Web Services, CMDB, IRE, Integration Hub, scripts, Virtual Agent/Now Assist, Discovery, Service Graph Connector, RPA
+ServiceNow Expertise: email, authentication, RESTful Web Services, Integration Hub, Business Rules, Script Includes, Virtual Agent/Now Assist, Discovery/MID Server, CMDB, IRE, Service Graph Connector
 
-Soft Skills: Collaboration, Communication, Problem-solving
+Soft Skills: Communication, Collaboration, Problem-solving
 
 Interests: music, food, stories
 
