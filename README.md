@@ -6,6 +6,8 @@ A mentor of junior engineers and an experienced tester at the unit, integration,
 * LinkedIn: <https://www.linkedin.com/in/jan-balangue/>
 * HackerRank: <https://www.hackerrank.com/profile/jan_a_balangue>
 * Wellfound: <https://wellfound.com/u/jan-balangue-1>
+* SoundCloud: <https://soundcloud.com/jaybalangue>
+* Substack: <https://jaybalangue.substack.com/>
 
 Languages & Frameworks: Java, Spring Boot, Python, NumPy, JavaScript, TypeScript, React, Next.js, Cucumber
 
