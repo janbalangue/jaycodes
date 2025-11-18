@@ -19,7 +19,7 @@ ServiceNow Expertise: email, authentication, RESTful Web Services, Integration H
 
 Soft Skills: Communication, Collaboration, Problem-solving
 
-Interests: music, food, stories
+Interests: music, food, writing, health
 
 Resources:
 - HTMX: https://htmx.org/
