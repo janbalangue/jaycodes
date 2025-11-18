@@ -22,6 +22,7 @@ Soft Skills: Communication, Collaboration, Problem-solving
 Interests: music, food, writing, health
 
 Resources:
+- gRPC: https://grpc.io/docs/languages/java/quickstart/
 - WebSockets API: https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API
 - Neo4j: https://neo4j.com/docs/
 - HTMX: https://htmx.org/
