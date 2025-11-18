@@ -7,7 +7,7 @@ A mentor of junior engineers and an experienced tester at the unit, integration,
 * HackerRank: <https://www.hackerrank.com/profile/jan_a_balangue>
 * Wellfound: <https://wellfound.com/u/jan-balangue-1>
 
-Languages & Frameworks: Java, Spring Boot, Python, Numpy, JavaScript, TypeScript, React, Next.js, Cucumber
+Languages & Frameworks: Java, Spring Boot, Python, NumPy, JavaScript, TypeScript, React, Next.js, Cucumber
 
 DevOps & Cloud: CI/CD, GitHub, containers, VMs
 
@@ -22,6 +22,7 @@ Soft Skills: Communication, Collaboration, Problem-solving
 Interests: music, food, writing, health
 
 Resources:
+- NumPy: https://numpy.org/doc/stable/
 - gRPC: https://grpc.io/docs/languages/java/quickstart/
 - WebSockets API: https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API
 - Neo4j: https://neo4j.com/docs/
